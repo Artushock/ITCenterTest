@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IT Center Test</string>
+
+    <!--  Search fragment  -->
+    <string name="search_fragment_edit_text_hint">Enter street, address, or city…</string>
+    <string name="search_fragment_search_btn">Search</string>
+
+    <!--  Details Fragment  -->
+    <string name="details_fragment_info">%1$s\nTemperature: %2$s °C\nHumidity: %3$s %%\nPressure: %4$s mm</string>
+    <string name="weather_state_icon">Weather state icon</string>
+
+
+</resources>
